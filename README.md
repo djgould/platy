@@ -52,3 +52,5 @@ rm -rf entity/src/*
 
 sea-orm-cli generate entity -o entity/src --lib --with-serde both --serde-skip-deserializing-primary-key
 ```
+
+bla
